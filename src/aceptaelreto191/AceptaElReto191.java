@@ -25,6 +25,8 @@ public class AceptaElReto191 {
                                 teniendo en cuenta que cada acuario consecutivo tiene menos capacidad que el anterior*/
             }
             System.out.println(sol);//Mostramos la solucion por pantalla
+            System.out.println("Hola");
+            System.out.println("Esto es un cambio");
         }
     }
 }
